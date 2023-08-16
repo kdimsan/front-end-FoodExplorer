@@ -5,6 +5,8 @@
 
    ### Front-end do desafio final do curso Explorer da Rocketseat, sendo criado com ReactJS e estilizado com Styled-components e conexão com o bancode dados feito com Axios.
 
+   Projeto disponível para visualização em: [ricardoadamefoodexplorer.netlify.app](https://ricardoadamefoodexplorer.netlify.app)
+
 <div align="center" >
   <img src="./docs/assets/login.gif">
 </div>
@@ -32,4 +34,4 @@ Sinta-se à vontade para realizar qualquer teste com a funcionalidade de admin: 
 
 Caso deseja fazer um pull do projeto, basta rodar npm install tanto no front-end quanto no back-end e alterar a rota da api para onde está localizado o servidor do 
 back-end.
-Também está disponível em: https://ricardoadamefoodexplorer.netlify.app
+
